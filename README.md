@@ -6,7 +6,7 @@ MagicBox is a tool to minify images, graphics, design source files. Organize a w
 
 ## Features
 
-<img align="right" width="400" height="auto" src="https://katrukhin.com/magic-box/preview.gif">
+<img align="right" width="400" height="auto" src="https://ux-engineer.com/magic-box/preview.gif">
 
 - Icon manager
 - Font manager\*

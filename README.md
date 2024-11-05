@@ -1,11 +1,7 @@
-![MagicBox - Organize your workspace, keep files optimized](https://katrukhin.com/magic-box/github-header-3.jpg)
-
-#
-
 MagicBox is a tool to minify images, graphics, design source files. Organize a workspace by creating file sets, assign them to project, track file updates, export to project.
 
 ## Features
-[![MagicBox](https://i.imgur.com/iB1uC9X.jpeg)](https://vimeo.com/940583258)
+[![MagicBox](https://i.imgur.com/iB1uC9X.jpeg)](https://vimeo.com/940583258 "MagicBox")
 
 - Icon manager
 - Font manager\*

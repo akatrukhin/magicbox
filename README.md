@@ -5,8 +5,7 @@
 MagicBox is a tool to minify images, graphics, design source files. Organize a workspace by creating file sets, assign them to project, track file updates, export to project.
 
 ## Features
-
-<img align="right" width="400" height="auto" src="https://ux-engineer.com/magic-box/preview.gif">
+[![MagicBox](https://i.imgur.com/iB1uC9X.jpeg](https://vimeo.com/940583258)
 
 - Icon manager
 - Font manager\*
